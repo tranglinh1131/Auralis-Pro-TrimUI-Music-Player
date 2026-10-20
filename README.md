@@ -804,7 +804,7 @@ Auralis Pro should not run together.
 
 - **Author:** Trang Linh
 - **Hardware:** TrimUI Brick Pro
-- **Supported firmware:** NX Redux · NextUI · StockOS
+- **Supported firmware:** NX Redux · NextUI
 - **Version:** 6.19.11
 
 ---
