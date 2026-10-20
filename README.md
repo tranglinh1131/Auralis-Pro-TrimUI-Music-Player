@@ -2,8 +2,13 @@
 
 A music player for **TrimUI Brick, Brick Hammer, and Brick Pro**, running on **NX Redux** and **NextUI**.
 
-Latest version: **6.19.11**
+Latest version: **v6.19.11**
 
+Screenshoots:
+<img width="2268" height="4032" alt="IMG_2631" src="https://github.com/user-attachments/assets/78a888cc-75e7-4392-8fdc-943d35b84561" />
+<img width="2268" height="4032" alt="IMG_2633" src="https://github.com/user-attachments/assets/db90b513-0e2f-407f-ac5b-ef38ed14d17c" />
+<img width="2268" height="4032" alt="IMG_2636" src="https://github.com/user-attachments/assets/03de05c7-758c-4656-a98d-0ebfccc46c3a" />
+<img width="2268" height="4032" alt="IMG_2635" src="https://github.com/user-attachments/assets/658321cb-605f-4e1c-aebc-9039473f4952" />
 ---
 
 ## 🙏 Credits
