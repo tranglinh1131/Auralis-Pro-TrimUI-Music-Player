@@ -2,13 +2,48 @@
 
 A music player for **TrimUI Brick, Brick Hammer, and Brick Pro**, running on **NX Redux** and **NextUI**.
 
-Latest version: **v6.19.11**
+**Download:** https://github.com/tranglinh1131/Auralis-Pro-TrimUI-Music-Player/releases
 
-Screenshoots:
-<img width="2268" height="4032" alt="IMG_2631" src="https://github.com/user-attachments/assets/78a888cc-75e7-4392-8fdc-943d35b84561" />
-<img width="2268" height="4032" alt="IMG_2633" src="https://github.com/user-attachments/assets/db90b513-0e2f-407f-ac5b-ef38ed14d17c" />
-<img width="2268" height="4032" alt="IMG_2636" src="https://github.com/user-attachments/assets/03de05c7-758c-4656-a98d-0ebfccc46c3a" />
-<img width="2268" height="4032" alt="IMG_2635" src="https://github.com/user-attachments/assets/658321cb-605f-4e1c-aebc-9039473f4952" />
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/731fe718-8690-48c1-b016-9c578f992c22">
+        <img src="https://github.com/user-attachments/assets/731fe718-8690-48c1-b016-9c578f992c22" width="400" alt="SCR_20261031_005756">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/0727554a-74e3-4eef-8104-846660aa0b06">
+        <img src="https://github.com/user-attachments/assets/0727554a-74e3-4eef-8104-846660aa0b06" width="400" alt="SCR_20261031_005823">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/32e68728-7e11-4220-bbf2-0dc6b9fda981">
+        <img src="https://github.com/user-attachments/assets/32e68728-7e11-4220-bbf2-0dc6b9fda981" width="400" alt="SCR_20261031_005928">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/b60075ba-6c3c-4070-a9a4-adc0a68b8817">
+        <img src="https://github.com/user-attachments/assets/b60075ba-6c3c-4070-a9a4-adc0a68b8817" width="400" alt="SCR_20261031_005936">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/67c787d0-2e95-41fe-837d-b88f1da78d8a">
+        <img src="https://github.com/user-attachments/assets/67c787d0-2e95-41fe-837d-b88f1da78d8a" width="400" alt="SCR_20261031_005913">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/user-attachments/assets/532740ac-5170-42dd-980e-0a11abf886b0">
+        <img src="https://github.com/user-attachments/assets/532740ac-5170-42dd-980e-0a11abf886b0" width="400" alt="SCR_20261031_010057">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 🙏 Credits
@@ -810,6 +845,5 @@ Auralis Pro should not run together.
 - **Author:** Trang Linh
 - **Hardware:** TrimUI Brick Pro
 - **Supported firmware:** NX Redux · NextUI
-- **Version:** 6.19.11
 
 ---
