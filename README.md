@@ -1,6 +1,8 @@
 # Auralis Pro
 
-A music player for **TrimUI Brick, Brick Hammer, and Brick Pro**, running on **NX Redux** and **NextUI**.
+A music player for **TrimUI Brick, Brick Hammer, and Brick Pro**, running on **StockOS**, **NX Redux** and **NextUI**.
+
+💡 StockOS is officially supported starting from version 7.4.0
 
 **Download:** https://github.com/tranglinh1131/Auralis-Pro-TrimUI-Music-Player/releases
 
